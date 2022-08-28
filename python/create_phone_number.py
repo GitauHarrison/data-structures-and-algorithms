@@ -1,5 +1,5 @@
 """
-Write a function that accepts an array of 10 integers (between 0 and 9), 
+Write a function that accepts an array of 10 integers (between 0 and 9),
 that returns a string of those numbers in the form of a a phone number
 
 
@@ -14,8 +14,6 @@ Returns:
 The retuned format MUST abide to the order shown above.
 Remember the space after the closing parenthesis
 """
-
-from venv import create
 
 
 def create_phone_number(n):
