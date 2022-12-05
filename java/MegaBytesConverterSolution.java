@@ -1,12 +1,13 @@
+import java.util.Scanner;
+
+
 public class MegaBytesConverterSolution {
     public static void main(String[] args) {
-        int kiloBytes = 2500;
+        Scanner obj = new Scanner(System.in);
+        System.out.println("Enter an integer value in kilobytes");
+        int kiloBytes = obj.nextInt();
 
-        if (kiloBytes < 0) {
-            System.out.println("Invalid Value");
-        } else {
-            printMegaBytesAndKiloBytes(kiloBytes);
-        }
+        printMegaBytesAndKiloBytes(kiloBytes);
     }
     public static void printMegaBytesAndKiloBytes(int kiloBytes) {
         int MB = kiloBytes / 1024;
