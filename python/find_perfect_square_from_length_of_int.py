@@ -9,7 +9,7 @@ def square_it(digits):
     1212 returns:
 
     12
-    12 
+    12
 
     Note: 4 digits so 2 squared (2x2 perfect square). 2 digits on each line.
 
