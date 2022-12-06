@@ -20,5 +20,3 @@
 // TIP: Use paper and pencil.
 
 // TIP: Use casting.
-
-// NOTE: The areEqualByThreeDecimalPlaces method  needs to be defined as public static ​like we have been doing so far in the course.

@@ -36,5 +36,3 @@
 // isLeapYear(2017); → should return false since 2017 is not a leap year
 
 // isLeapYear(2000);  → should return true because 2000 is a leap year 
-
-// NOTE: The method isLeapYear needs to be defined as public static ​like we have been doing so far in the course.
