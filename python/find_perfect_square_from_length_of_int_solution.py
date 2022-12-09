@@ -28,4 +28,4 @@ def square_it(digits):
         # 8. If the length of the list is not the same as the factor
         print(digits, "Not a perfect square!")
 
-square_it(112141568)
+square_it(121121)
